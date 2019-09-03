@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6EE26206-BD6A-43FF-919D-7132CF04F749"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "01915943-6EDA-4260-B142-541807AEEACD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070F7927-523D-4125-B9A8-8D34B038B450"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BluetoothSocket/BaseControlModel.m"
+            timestampString = "582791980.347608"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "-ReportingRealTimeData:deviceMac:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "070F7927-523D-4125-B9A8-8D34B038B450 - 807f6048cf54d2f9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BaseControlModel ReportingRealTimeData:deviceMac:]"
+                  moduleName = "BluetoothSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/ManageProgect/BluetoothSocket/BluetoothSocket/BaseControlModel.m"
+                  timestampString = "576589500.059684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "070F7927-523D-4125-B9A8-8D34B038B450 - ae864ccf02ca88db"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52-[BaseControlModel ReportingRealTimeData:deviceMac:]_block_invoke_2"
+                  moduleName = "BluetoothSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/ManageProgect/BluetoothSocket/BluetoothSocket/BaseControlModel.m"
+                  timestampString = "576589500.061438"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
