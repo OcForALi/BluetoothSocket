@@ -231,6 +231,7 @@
 				044CA9172079B16C00E4947B /* Frameworks */,
 				044CA9182079B16C00E4947B /* Resources */,
 				0462745F213950E7006CF3BE /* Embed Frameworks */,
+				04E378C42320AA3400DABEBC /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -354,6 +355,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		04E378C42320AA3400DABEBC /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 12;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "sh ${PROJECT_DIR}/bump_build_number.sh \"${PROJECT_DIR}/${INFOPLIST_FILE}\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		044CA9162079B16C00E4947B /* Sources */ = {
